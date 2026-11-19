@@ -1,0 +1,81 @@
+leccionId,titulo,descripcion,duracionMin,numero
+1,Introducción a Python,Lección sobre Python del curso Python desde Cero.,16,1
+2,Conceptos clave de Python,Lección sobre Python del curso Python desde Cero.,22,2
+3,Ejercicios guiados de Python,Lección sobre Python del curso Python desde Cero.,38,1
+4,Proyecto final de Python,Lección sobre Python del curso Python desde Cero.,16,2
+5,Introducción a JavaScript,Lección sobre JavaScript del curso JavaScript Moderno.,40,1
+6,Conceptos clave de JavaScript,Lección sobre JavaScript del curso JavaScript Moderno.,26,2
+7,Ejercicios guiados de JavaScript,Lección sobre JavaScript del curso JavaScript Moderno.,13,1
+8,Proyecto final de JavaScript,Lección sobre JavaScript del curso JavaScript Moderno.,34,2
+9,Introducción a estructuras de datos,Lección sobre estructuras de datos del curso Estructuras de Datos.,18,1
+10,Conceptos clave de estructuras de datos,Lección sobre estructuras de datos del curso Estructuras de Datos.,16,2
+11,Ejercicios guiados de estructuras de datos,Lección sobre estructuras de datos del curso Estructuras de Datos.,27,1
+12,Proyecto final de estructuras de datos,Lección sobre estructuras de datos del curso Estructuras de Datos.,40,2
+13,Introducción a ciencia de datos,Lección sobre ciencia de datos del curso Introducción a la Ciencia de Datos.,34,1
+14,Conceptos clave de ciencia de datos,Lección sobre ciencia de datos del curso Introducción a la Ciencia de Datos.,32,2
+15,Ejercicios guiados de ciencia de datos,Lección sobre ciencia de datos del curso Introducción a la Ciencia de Datos.,17,1
+16,Proyecto final de ciencia de datos,Lección sobre ciencia de datos del curso Introducción a la Ciencia de Datos.,20,2
+17,Introducción a machine learning,Lección sobre machine learning del curso Machine Learning Aplicado.,32,1
+18,Conceptos clave de machine learning,Lección sobre machine learning del curso Machine Learning Aplicado.,8,2
+19,Ejercicios guiados de machine learning,Lección sobre machine learning del curso Machine Learning Aplicado.,14,1
+20,Proyecto final de machine learning,Lección sobre machine learning del curso Machine Learning Aplicado.,32,2
+21,Introducción a SQL,Lección sobre SQL del curso SQL y Bases de Datos.,12,1
+22,Conceptos clave de SQL,Lección sobre SQL del curso SQL y Bases de Datos.,11,2
+23,Ejercicios guiados de SQL,Lección sobre SQL del curso SQL y Bases de Datos.,30,1
+24,Proyecto final de SQL,Lección sobre SQL del curso SQL y Bases de Datos.,30,2
+25,Introducción a diseño de interfaces,Lección sobre diseño de interfaces del curso Diseño UX/UI.,9,1
+26,Conceptos clave de diseño de interfaces,Lección sobre diseño de interfaces del curso Diseño UX/UI.,9,2
+27,Ejercicios guiados de diseño de interfaces,Lección sobre diseño de interfaces del curso Diseño UX/UI.,40,1
+28,Proyecto final de diseño de interfaces,Lección sobre diseño de interfaces del curso Diseño UX/UI.,38,2
+29,Introducción a marketing digital,Lección sobre marketing digital del curso Fundamentos de Marketing Digital.,28,1
+30,Conceptos clave de marketing digital,Lección sobre marketing digital del curso Fundamentos de Marketing Digital.,27,2
+31,Ejercicios guiados de marketing digital,Lección sobre marketing digital del curso Fundamentos de Marketing Digital.,36,1
+32,Proyecto final de marketing digital,Lección sobre marketing digital del curso Fundamentos de Marketing Digital.,28,2
+33,Introducción a SEO,Lección sobre SEO del curso SEO y Analítica Web.,15,1
+34,Conceptos clave de SEO,Lección sobre SEO del curso SEO y Analítica Web.,39,2
+35,Ejercicios guiados de SEO,Lección sobre SEO del curso SEO y Analítica Web.,37,1
+36,Proyecto final de SEO,Lección sobre SEO del curso SEO y Analítica Web.,18,2
+37,Introducción a finanzas personales,Lección sobre finanzas personales del curso Finanzas Personales.,17,1
+38,Conceptos clave de finanzas personales,Lección sobre finanzas personales del curso Finanzas Personales.,21,2
+39,Ejercicios guiados de finanzas personales,Lección sobre finanzas personales del curso Finanzas Personales.,35,1
+40,Proyecto final de finanzas personales,Lección sobre finanzas personales del curso Finanzas Personales.,29,2
+41,Introducción a inglés,Lección sobre inglés del curso Inglés Conversacional.,37,1
+42,Conceptos clave de inglés,Lección sobre inglés del curso Inglés Conversacional.,22,2
+43,Ejercicios guiados de inglés,Lección sobre inglés del curso Inglés Conversacional.,12,1
+44,Proyecto final de inglés,Lección sobre inglés del curso Inglés Conversacional.,33,2
+45,Introducción a português,Lección sobre português del curso Português para Negócios.,10,1
+46,Conceptos clave de português,Lección sobre português del curso Português para Negócios.,20,2
+47,Ejercicios guiados de português,Lección sobre português del curso Português para Negócios.,19,1
+48,Proyecto final de português,Lección sobre português del curso Português para Negócios.,10,2
+49,Introducción a metodologías ágiles,Lección sobre metodologías ágiles del curso Gestión de Proyectos Ágiles.,11,1
+50,Conceptos clave de metodologías ágiles,Lección sobre metodologías ágiles del curso Gestión de Proyectos Ágiles.,36,2
+51,Ejercicios guiados de metodologías ágiles,Lección sobre metodologías ágiles del curso Gestión de Proyectos Ágiles.,20,1
+52,Proyecto final de metodologías ágiles,Lección sobre metodologías ágiles del curso Gestión de Proyectos Ágiles.,38,2
+53,Introducción a ciberseguridad,Lección sobre ciberseguridad del curso Ciberseguridad Esencial.,9,1
+54,Conceptos clave de ciberseguridad,Lección sobre ciberseguridad del curso Ciberseguridad Esencial.,16,2
+55,Ejercicios guiados de ciberseguridad,Lección sobre ciberseguridad del curso Ciberseguridad Esencial.,21,1
+56,Proyecto final de ciberseguridad,Lección sobre ciberseguridad del curso Ciberseguridad Esencial.,16,2
+57,Introducción a hacking ético,Lección sobre hacking ético del curso Hacking Ético.,18,1
+58,Conceptos clave de hacking ético,Lección sobre hacking ético del curso Hacking Ético.,19,2
+59,Ejercicios guiados de hacking ético,Lección sobre hacking ético del curso Hacking Ético.,32,1
+60,Proyecto final de hacking ético,Lección sobre hacking ético del curso Hacking Ético.,25,2
+61,Introducción a fotografía,Lección sobre fotografía del curso Fotografía Digital.,35,1
+62,Conceptos clave de fotografía,Lección sobre fotografía del curso Fotografía Digital.,34,2
+63,Ejercicios guiados de fotografía,Lección sobre fotografía del curso Fotografía Digital.,13,1
+64,Proyecto final de fotografía,Lección sobre fotografía del curso Fotografía Digital.,32,2
+65,Introducción a producción musical,Lección sobre producción musical del curso Producción Musical.,27,1
+66,Conceptos clave de producción musical,Lección sobre producción musical del curso Producción Musical.,19,2
+67,Ejercicios guiados de producción musical,Lección sobre producción musical del curso Producción Musical.,30,1
+68,Proyecto final de producción musical,Lección sobre producción musical del curso Producción Musical.,19,2
+69,Introducción a deep learning,Lección sobre deep learning del curso Deep Learning con TensorFlow.,24,1
+70,Conceptos clave de deep learning,Lección sobre deep learning del curso Deep Learning con TensorFlow.,37,2
+71,Ejercicios guiados de deep learning,Lección sobre deep learning del curso Deep Learning con TensorFlow.,39,1
+72,Proyecto final de deep learning,Lección sobre deep learning del curso Deep Learning con TensorFlow.,34,2
+73,Introducción a liderazgo,Lección sobre liderazgo del curso Liderazgo y Comunicación.,26,1
+74,Conceptos clave de liderazgo,Lección sobre liderazgo del curso Liderazgo y Comunicación.,37,2
+75,Ejercicios guiados de liderazgo,Lección sobre liderazgo del curso Liderazgo y Comunicación.,19,1
+76,Proyecto final de liderazgo,Lección sobre liderazgo del curso Liderazgo y Comunicación.,28,2
+77,Introducción a análisis financiero,Lección sobre análisis financiero del curso Análisis Financiero con Excel.,38,1
+78,Conceptos clave de análisis financiero,Lección sobre análisis financiero del curso Análisis Financiero con Excel.,36,2
+79,Ejercicios guiados de análisis financiero,Lección sobre análisis financiero del curso Análisis Financiero con Excel.,15,1
+80,Proyecto final de análisis financiero,Lección sobre análisis financiero del curso Análisis Financiero con Excel.,25,2

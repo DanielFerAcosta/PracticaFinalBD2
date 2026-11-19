@@ -1,0 +1,25 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+1,Daniela Ríos,23,F,daniela.rios1@correo.com,2003-04-01
+2,Santiago Mejía,23,M,santiago.mejia2@correo.com,2002-12-06
+3,Valentina Cruz,44,F,valentina.cruz3@correo.com,1982-07-21
+4,Mateo Herrera,44,M,mateo.herrera4@correo.com,1982-04-29
+5,Camila Ortiz,41,,camila.ortiz5@correo.com,1985-09-07
+6,Andrés Salazar,46,M,andres.salazar6@correo.com,1980-09-17
+7,Laura Gómez,40,F,laura.gomez7@correo.com,1986-04-28
+8,Sebastián Vargas,20,M,sebastian.vargas8@correo.com,2006-04-07
+9,María Fernanda Pardo,26,F,maria.pardo9@correo.com,2000-09-22
+10,Juan Pablo Rojas,36,M,juan.rojas10@correo.com,1990-06-01
+11,Paula Andrea Torres,46,F,paula.torres11@correo.com,1980-11-13
+12,Felipe Castaño,34,M,felipe.castano12@correo.com,1992-02-11
+13,Natalia Duque,37,F,natalia.duque13@correo.com,1989-09-13
+14,Carlos Londoño,46,M,carlos.londono14@correo.com,1980-10-27
+15,Isabella Restrepo,30,F,isabella.restrepo15@correo.com,1996-06-19
+16,Diego Montoya,30,M,diego.montoya16@correo.com,1996-08-05
+17,Sofía Benítez,46,Otro,sofia.benitez17@correo.com,1980-07-27
+18,Alejandro Peña,38,M,alejandro.pena18@correo.com,1988-07-20
+19,Carolina Ibarra,35,F,carolina.ibarra19@correo.com,1991-11-26
+20,Tomás Aguirre,44,M,tomas.aguirre20@correo.com,1982-03-18
+21,Lucía Fernández,23,F,lucia.fernandez21@correo.com,2003-03-05
+22,Nicolás Arango,33,M,nicolas.arango22@correo.com,1993-09-18
+23,Gabriela Suárez,28,F,gabriela.suarez23@correo.com,1998-06-16
+24,Emilio Navarro,20,M,emilio.navarro24@correo.com,2006-01-25

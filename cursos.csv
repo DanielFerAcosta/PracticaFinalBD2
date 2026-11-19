@@ -1,0 +1,21 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+1,Python desde Cero,Curso de Python (básico).,Básico,2021,3.88
+2,JavaScript Moderno,Curso de JavaScript (intermedio).,Intermedio,2022,4.0
+3,Estructuras de Datos,Curso de estructuras de datos (intermedio).,Intermedio,2020,
+4,Introducción a la Ciencia de Datos,Curso de ciencia de datos (básico).,Básico,2022,4.17
+5,Machine Learning Aplicado,Curso de machine learning (avanzado).,Avanzado,2023,4.33
+6,SQL y Bases de Datos,Curso de SQL (básico).,Básico,2021,3.0
+7,Diseño UX/UI,Curso de diseño de interfaces (intermedio).,Intermedio,2022,3.67
+8,Fundamentos de Marketing Digital,Curso de marketing digital (básico).,Básico,2021,4.5
+9,SEO y Analítica Web,Curso de SEO (intermedio).,Intermedio,2023,2.33
+10,Finanzas Personales,Curso de finanzas personales (básico).,Básico,2020,3.5
+11,Inglés Conversacional,Curso de inglés (básico).,Básico,2019,5.0
+12,Português para Negócios,Curso de português (intermedio).,Intermedio,2022,4.5
+13,Gestión de Proyectos Ágiles,Curso de metodologías ágiles (intermedio).,Intermedio,2021,4.0
+14,Ciberseguridad Esencial,Curso de ciberseguridad (básico).,Básico,2023,4.5
+15,Hacking Ético,Curso de hacking ético (avanzado).,Avanzado,2024,4.67
+16,Fotografía Digital,Curso de fotografía (básico).,Básico,2020,
+17,Producción Musical,Curso de producción musical (intermedio).,Intermedio,2022,3.0
+18,Deep Learning con TensorFlow,Curso de deep learning (avanzado).,Avanzado,2024,4.5
+19,Liderazgo y Comunicación,Curso de liderazgo (intermedio).,Intermedio,2021,4.2
+20,Análisis Financiero con Excel,Curso de análisis financiero (intermedio).,Intermedio,2023,
